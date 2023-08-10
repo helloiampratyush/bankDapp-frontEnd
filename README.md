@@ -191,11 +191,11 @@ We welcome contributions from the community that can help improve the Ethereum B
 
 ### Reporting Issues
 
-If you encounter any bugs, glitches, or unexpected behavior while using the DApp, please [open an issue](https://github.com/your-username/ethereum-banking-dapp/issues) on GitHub. Be sure to provide detailed information about the problem you're facing and steps to reproduce it.
+If you encounter any bugs, glitches, or unexpected behavior while using the DApp, please [open an issue](https://github.com/helloiampratyush/bankDapp-frontEnd/issues) on GitHub. Be sure to provide detailed information about the problem you're facing and steps to reproduce it.
 
 ### Feature Requests
 
-Have an idea for a new feature or enhancement? We'd love to hear it! [Open a feature request](https://github.com/your-username/ethereum-banking-dapp/issues) and describe the feature you'd like to see. Your feedback is valuable in shaping the future of the DApp.
+Have an idea for a new feature or enhancement? We'd love to hear it! [Open a feature request](https://github.com/helloiampratyush/bankDapp-frontEnd/issues) and describe the feature you'd like to see. Your feedback is valuable in shaping the future of the DApp.
 
 ### Pull Requests
 
