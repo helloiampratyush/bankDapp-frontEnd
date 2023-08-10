@@ -63,7 +63,7 @@ Start managing your Ethereum assets with ease using the Ethereum Banking DApp!
 
 ## Demo
 
-Check out our live demo [here](https://your-demo-url.com).
+Check out our live demo [here](https://transcendent-valkyrie-e642bf.netlify.app).
 
 ## Installation
 
